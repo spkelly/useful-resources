@@ -1,7 +1,7 @@
 # Useful Resources
 
 
- this is a collection of useful functions information, and links that I have collected and want to remember
+ this is a collection of useful functions, information, and links that I have collected and want to remember
 
 
 ## Contents
@@ -20,6 +20,6 @@
 - [Webdev subreddit](https://reddit.com/r/webdev)
 
 
-## useful tutorials
+## Useful tutorials
 
 - coming soon...
