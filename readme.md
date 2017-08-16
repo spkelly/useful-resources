@@ -6,6 +6,7 @@
 
 ## Contents
 - [Auth](./auth)
+- [React](./react)
 - [Logging](./logging)
 - [Useful NPM Packages](./package_list.md)
 - [Boilerplate](./boilerplate)
@@ -18,7 +19,7 @@
 - [Angular](https://angularjs.org/)
 - [Code Wars](https://codewars.com)
 - [Webdev subreddit](https://reddit.com/r/webdev)
-
+-
 
 ## Useful tutorials
 
